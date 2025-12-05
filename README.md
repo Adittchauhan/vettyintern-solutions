@@ -70,6 +70,17 @@ All solutions are included in `solutions.sql` with clear explanations.
 - Followed SQL formatting best practices for clarity.
 
 ---
+## Image correspondance
+WhatsApp Image 2025-12-05 at 19.57.57.jpeg -> solution 1
+WhatsApp Image 2025-12-05 at 19.58.27.jpeg -> solution 2
+WhatsApp Image 2025-12-05 at 19.59.57.jpeg -> solution 3
+WhatsApp Image 2025-12-05 at 20.00.17.jpeg -> solution 4
+WhatsApp Image 2025-12-05 at 20.01.03.jpeg -> solution 5
+WhatsApp Image 2025-12-05 at 20.11.21.jpeg -> solution 6
+WhatsApp Image 2025-12-05 at 20.12.02.jpeg -> solution 7
+WhatsApp Image 2025-12-05 at 20.12.28.jpeg -> solution 8
+
+---
 
 ## How to Run
 
