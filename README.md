@@ -83,7 +83,6 @@ All solutions are included in `solutions.sql` with clear explanations.
 ## Submission
 
 This repository serves as my final submission for the Vetty internship SQL assignment.  
-Screenshots of executed queries can be found inside the repository (if uploaded as required).
 
 For any clarifications, feel free to reach out.
 
