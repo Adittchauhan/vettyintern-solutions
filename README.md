@@ -5,7 +5,7 @@ All queries were written based on the dataset snapshots provided in the assignme
 
 ---
 
-## 📌 Overview
+## Overview
 
 The task involved solving 8 SQL questions using two provided tables:
 
@@ -22,7 +22,7 @@ I have included:
 
 ---
 
-## 🧠 Assumptions
+## Assumptions
 
 To maintain consistency with the dataset structure, the following assumptions were made:
 
@@ -35,17 +35,16 @@ To maintain consistency with the dataset structure, the following assumptions we
 
 ---
 
-## 📝 Files Included
+## Files Included
 
 | File Name | Description |
 |----------|-------------|
 | **solutions.sql** | Contains all 8 SQL answers with comments and clean formatting |
 | **README.md** | Contains problem overview, approach, assumptions, and submission explanation |
-| **(Optional)** screenshots/ | Folder storing screenshots of executed queries locally |
 
 ---
 
-## ✔️ Questions Solved
+## Questions Solved
 
 This assignment provides SQL solutions for the following tasks:
 
@@ -62,7 +61,7 @@ All solutions are included in `solutions.sql` with clear explanations.
 
 ---
 
-## 💡 Approach Summary
+## Approach Summary
 
 - Used **CTEs (WITH clauses)** for cleaner logic and readability.  
 - Applied **window functions** such as `ROW_NUMBER()` where ordering per buyer or store was needed.  
@@ -72,6 +71,26 @@ All solutions are included in `solutions.sql` with clear explanations.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone this repository:
+   https://github.com/Adittchauhan/vetty-sql-assignment
+3. Open the SQL file in your preferred SQL editor.
+4. Run queries one-by-one (or entire file if supported).
+
+---
+
+## Submission
+
+This repository serves as my final submission for the Vetty internship SQL assignment.  
+Screenshots of executed queries can be found inside the repository (if uploaded as required).
+
+For any clarifications, feel free to reach out.
+
+---
+
+## Thank You!
+
+Thank you for reviewing my submission.  
+I enjoyed working on this SQL assessment and look forward to the next steps in the interview process.
+
